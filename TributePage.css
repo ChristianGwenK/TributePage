@@ -1,0 +1,44 @@
+#tribute-info {
+    background: #C5C1C0;
+}
+#tribute-info p {
+    line-height: 2;
+}
+body {
+    background: #9A9594;
+}
+
+img {
+    max-width: 30%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+}
+
+#subtitle {
+    text-align:center;
+    font-family: Brush Script MT;
+}
+
+#img-caption {
+    font-style:italic;
+    margin-top: 0;
+    text-align: center;
+
+}
+
+#quote {
+    text-align: center;
+    font-style: italic;
+}
+
+#content {
+    font-family: Courier New;
+}
